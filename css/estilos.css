@@ -1,0 +1,104 @@
+*{
+    margin: auto;
+}
+#principal{
+    width: 800px;
+    height: 2000px;
+    background-color: lightcyan;
+    }
+
+#cara{
+    width: 580px;
+    height: 580px;
+    background-color: yellow;
+    border-radius: 50%;
+    display: inline-block;
+    position: relative;
+    left: 120px;
+    top: 120px;
+}
+#ojo1{
+    width: 90px;
+    height: 140px;
+    background-color: black;
+    position: relative;
+    top: 150px;
+    right: 100px;
+    border-radius: 50px;
+    
+}
+#ojo1-1{
+    width: 40px;
+    height: 50px;
+    background-color: white;
+    position: relative;
+    top: 80px;
+    border-radius: 40px;
+}
+#ojo2{
+    width: 90px;
+    height: 140px;
+    background-color: black;
+    position: relative;
+    top: 10px;
+    left: 100px;
+    border-radius: 50px;
+}
+#ojo2-1{
+    width: 40px;
+    height: 50px;
+    background-color: white;
+    position: relative;
+    top: 80px;
+    border-radius: 40px;
+}
+#naris{
+    width: 90px;
+    height: 100px;
+    background-color: red;
+    position: relative;
+    top: -50px;
+    border-radius: 50%;
+
+}
+#boca{
+    width: 400px;
+    height: 210px;
+    background-color: white;
+    position: relative;
+    top: -55px;
+    border-radius: 280px;
+}
+#boca1{
+    width: 280px;
+    height: 150px;
+    background-color: brown;
+    position: relative;
+    top:30px;
+    border-radius: 150px;
+}
+#boca1-1{
+    width: 100px;
+    height: 15px;
+    background-color: black;
+    position: relative;
+    top: 80px;
+    right: 15px;
+    border-radius: 100px;
+}
+#sobrero{
+    width: 580px;
+    height: 100px;
+    background-color: blue;
+    position: relative;
+    top: -480px;
+    border-radius: 100px;
+}
+#copasombre{
+    width: 400px;
+    height: 120px;
+    background-color: blue;
+    position: relative;
+    top: -660px;
+    border-radius: 50px;
+}
